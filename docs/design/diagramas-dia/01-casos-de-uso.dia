@@ -1,1 +1,1076 @@
-<?xml version="1.0" encoding="UTF-8"?><dia:diagram xmlns:dia="http://www.lysator.liu.se/~alla/dia/"><dia:diagramdata><dia:attribute name="background"><dia:color val="#FFFFFF"/></dia:attribute><dia:attribute name="paper"><dia:composite type="paper"><dia:attribute name="name"><dia:string>#A4#</dia:string></dia:attribute><dia:attribute name="is_portrait"><dia:boolean val="false"/></dia:attribute><dia:attribute name="scaling"><dia:real val="1"/></dia:attribute><dia:attribute name="fitto"><dia:boolean val="true"/></dia:attribute><dia:attribute name="fitwidth"><dia:int val="1"/></dia:attribute><dia:attribute name="fitheight"><dia:int val="1"/></dia:attribute></dia:composite></dia:attribute></dia:diagramdata><dia:layer name="Diseño" visible="true" active="true"><dia:object type="Standard - Text" version="1" id="O1"><dia:attribute name="obj_pos"><dia:point val="1.2,1.0"/></dia:attribute><dia:attribute name="text"><dia:composite type="text"><dia:attribute name="string"><dia:string>#Campus Connect - Casos de uso web#</dia:string></dia:attribute><dia:attribute name="font"><dia:font family="sans" style="80" name="Arial"/></dia:attribute><dia:attribute name="height"><dia:real val="0.82"/></dia:attribute><dia:attribute name="pos"><dia:point val="1.2,1.0"/></dia:attribute><dia:attribute name="color"><dia:color val="#0B3B35"/></dia:attribute><dia:attribute name="alignment"><dia:enum val="0"/></dia:attribute></dia:composite></dia:attribute></dia:object><dia:object type="Standard - Text" version="1" id="O2"><dia:attribute name="obj_pos"><dia:point val="1.2,1.65"/></dia:attribute><dia:attribute name="text"><dia:composite type="text"><dia:attribute name="string"><dia:string>#Actores y funciones incluidas en el módulo administrativo#</dia:string></dia:attribute><dia:attribute name="font"><dia:font family="sans" style="0" name="Arial"/></dia:attribute><dia:attribute name="height"><dia:real val="0.38"/></dia:attribute><dia:attribute name="pos"><dia:point val="1.2,1.65"/></dia:attribute><dia:attribute name="color"><dia:color val="#66736F"/></dia:attribute><dia:attribute name="alignment"><dia:enum val="0"/></dia:attribute></dia:composite></dia:attribute></dia:object><dia:object type="Standard - Box" version="0" id="O3"><dia:attribute name="obj_pos"><dia:point val="1.2,4.5"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="1.2,4.5;4.5,6.5"/></dia:attribute><dia:attribute name="elem_corner"><dia:point val="1.2,4.5"/></dia:attribute><dia:attribute name="elem_width"><dia:real val="3.3"/></dia:attribute><dia:attribute name="elem_height"><dia:real val="2.0"/></dia:attribute><dia:attribute name="border_width"><dia:real val="0.08"/></dia:attribute><dia:attribute name="border_color"><dia:color val="#0B3B35"/></dia:attribute><dia:attribute name="inner_color"><dia:color val="#F6C453"/></dia:attribute><dia:attribute name="show_background"><dia:boolean val="true"/></dia:attribute></dia:object><dia:object type="Standard - Text" version="1" id="O4"><dia:attribute name="obj_pos"><dia:point val="2.8499999999999996,5.5"/></dia:attribute><dia:attribute name="text"><dia:composite type="text"><dia:attribute name="string"><dia:string>#Estudiante#</dia:string></dia:attribute><dia:attribute name="font"><dia:font family="sans" style="80" name="Arial"/></dia:attribute><dia:attribute name="height"><dia:real val="0.55"/></dia:attribute><dia:attribute name="pos"><dia:point val="2.8499999999999996,5.5"/></dia:attribute><dia:attribute name="color"><dia:color val="#17211F"/></dia:attribute><dia:attribute name="alignment"><dia:enum val="1"/></dia:attribute></dia:composite></dia:attribute></dia:object><dia:object type="Standard - Box" version="0" id="O5"><dia:attribute name="obj_pos"><dia:point val="25.0,4.5"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="25.0,4.5;28.3,6.5"/></dia:attribute><dia:attribute name="elem_corner"><dia:point val="25.0,4.5"/></dia:attribute><dia:attribute name="elem_width"><dia:real val="3.3"/></dia:attribute><dia:attribute name="elem_height"><dia:real val="2.0"/></dia:attribute><dia:attribute name="border_width"><dia:real val="0.08"/></dia:attribute><dia:attribute name="border_color"><dia:color val="#0B3B35"/></dia:attribute><dia:attribute name="inner_color"><dia:color val="#F6C453"/></dia:attribute><dia:attribute name="show_background"><dia:boolean val="true"/></dia:attribute></dia:object><dia:object type="Standard - Text" version="1" id="O6"><dia:attribute name="obj_pos"><dia:point val="26.65,5.5"/></dia:attribute><dia:attribute name="text"><dia:composite type="text"><dia:attribute name="string"><dia:string>#Administrador#</dia:string></dia:attribute><dia:attribute name="font"><dia:font family="sans" style="80" name="Arial"/></dia:attribute><dia:attribute name="height"><dia:real val="0.55"/></dia:attribute><dia:attribute name="pos"><dia:point val="26.65,5.5"/></dia:attribute><dia:attribute name="color"><dia:color val="#17211F"/></dia:attribute><dia:attribute name="alignment"><dia:enum val="1"/></dia:attribute></dia:composite></dia:attribute></dia:object><dia:object type="Standard - Ellipse" version="0" id="O7"><dia:attribute name="obj_pos"><dia:point val="6,3"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="6,3;10.2,4.55"/></dia:attribute><dia:attribute name="elem_corner"><dia:point val="6,3"/></dia:attribute><dia:attribute name="elem_width"><dia:real val="4.2"/></dia:attribute><dia:attribute name="elem_height"><dia:real val="1.55"/></dia:attribute><dia:attribute name="border_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="border_color"><dia:color val="#0B3B35"/></dia:attribute><dia:attribute name="inner_color"><dia:color val="#FFFFFF"/></dia:attribute><dia:attribute name="show_background"><dia:boolean val="true"/></dia:attribute></dia:object><dia:object type="Standard - Text" version="1" id="O8"><dia:attribute name="obj_pos"><dia:point val="8.1,3.775"/></dia:attribute><dia:attribute name="text"><dia:composite type="text"><dia:attribute name="string"><dia:string>#Iniciar sesión#</dia:string></dia:attribute><dia:attribute name="font"><dia:font family="sans" style="80" name="Arial"/></dia:attribute><dia:attribute name="height"><dia:real val="0.42"/></dia:attribute><dia:attribute name="pos"><dia:point val="8.1,3.775"/></dia:attribute><dia:attribute name="color"><dia:color val="#17211F"/></dia:attribute><dia:attribute name="alignment"><dia:enum val="1"/></dia:attribute></dia:composite></dia:attribute></dia:object><dia:object type="Standard - Ellipse" version="0" id="O9"><dia:attribute name="obj_pos"><dia:point val="11,3"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="11,3;15.2,4.55"/></dia:attribute><dia:attribute name="elem_corner"><dia:point val="11,3"/></dia:attribute><dia:attribute name="elem_width"><dia:real val="4.2"/></dia:attribute><dia:attribute name="elem_height"><dia:real val="1.55"/></dia:attribute><dia:attribute name="border_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="border_color"><dia:color val="#0B3B35"/></dia:attribute><dia:attribute name="inner_color"><dia:color val="#FFFFFF"/></dia:attribute><dia:attribute name="show_background"><dia:boolean val="true"/></dia:attribute></dia:object><dia:object type="Standard - Text" version="1" id="O10"><dia:attribute name="obj_pos"><dia:point val="13.1,3.775"/></dia:attribute><dia:attribute name="text"><dia:composite type="text"><dia:attribute name="string"><dia:string>#Registrar solicitud#</dia:string></dia:attribute><dia:attribute name="font"><dia:font family="sans" style="80" name="Arial"/></dia:attribute><dia:attribute name="height"><dia:real val="0.42"/></dia:attribute><dia:attribute name="pos"><dia:point val="13.1,3.775"/></dia:attribute><dia:attribute name="color"><dia:color val="#17211F"/></dia:attribute><dia:attribute name="alignment"><dia:enum val="1"/></dia:attribute></dia:composite></dia:attribute></dia:object><dia:object type="Standard - Ellipse" version="0" id="O11"><dia:attribute name="obj_pos"><dia:point val="16,3"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="16,3;20.2,4.55"/></dia:attribute><dia:attribute name="elem_corner"><dia:point val="16,3"/></dia:attribute><dia:attribute name="elem_width"><dia:real val="4.2"/></dia:attribute><dia:attribute name="elem_height"><dia:real val="1.55"/></dia:attribute><dia:attribute name="border_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="border_color"><dia:color val="#0B3B35"/></dia:attribute><dia:attribute name="inner_color"><dia:color val="#FFFFFF"/></dia:attribute><dia:attribute name="show_background"><dia:boolean val="true"/></dia:attribute></dia:object><dia:object type="Standard - Text" version="1" id="O12"><dia:attribute name="obj_pos"><dia:point val="18.1,3.775"/></dia:attribute><dia:attribute name="text"><dia:composite type="text"><dia:attribute name="string"><dia:string>#Consultar seguimiento#</dia:string></dia:attribute><dia:attribute name="font"><dia:font family="sans" style="80" name="Arial"/></dia:attribute><dia:attribute name="height"><dia:real val="0.42"/></dia:attribute><dia:attribute name="pos"><dia:point val="18.1,3.775"/></dia:attribute><dia:attribute name="color"><dia:color val="#17211F"/></dia:attribute><dia:attribute name="alignment"><dia:enum val="1"/></dia:attribute></dia:composite></dia:attribute></dia:object><dia:object type="Standard - Ellipse" version="0" id="O13"><dia:attribute name="obj_pos"><dia:point val="8.5,7"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="8.5,7;12.7,8.55"/></dia:attribute><dia:attribute name="elem_corner"><dia:point val="8.5,7"/></dia:attribute><dia:attribute name="elem_width"><dia:real val="4.2"/></dia:attribute><dia:attribute name="elem_height"><dia:real val="1.55"/></dia:attribute><dia:attribute name="border_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="border_color"><dia:color val="#0B3B35"/></dia:attribute><dia:attribute name="inner_color"><dia:color val="#FFFFFF"/></dia:attribute><dia:attribute name="show_background"><dia:boolean val="true"/></dia:attribute></dia:object><dia:object type="Standard - Text" version="1" id="O14"><dia:attribute name="obj_pos"><dia:point val="10.6,7.775"/></dia:attribute><dia:attribute name="text"><dia:composite type="text"><dia:attribute name="string"><dia:string>#Adjuntar evidencia#</dia:string></dia:attribute><dia:attribute name="font"><dia:font family="sans" style="80" name="Arial"/></dia:attribute><dia:attribute name="height"><dia:real val="0.42"/></dia:attribute><dia:attribute name="pos"><dia:point val="10.6,7.775"/></dia:attribute><dia:attribute name="color"><dia:color val="#17211F"/></dia:attribute><dia:attribute name="alignment"><dia:enum val="1"/></dia:attribute></dia:composite></dia:attribute></dia:object><dia:object type="Standard - Ellipse" version="0" id="O15"><dia:attribute name="obj_pos"><dia:point val="13.5,7"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="13.5,7;17.7,8.55"/></dia:attribute><dia:attribute name="elem_corner"><dia:point val="13.5,7"/></dia:attribute><dia:attribute name="elem_width"><dia:real val="4.2"/></dia:attribute><dia:attribute name="elem_height"><dia:real val="1.55"/></dia:attribute><dia:attribute name="border_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="border_color"><dia:color val="#0B3B35"/></dia:attribute><dia:attribute name="inner_color"><dia:color val="#FFFFFF"/></dia:attribute><dia:attribute name="show_background"><dia:boolean val="true"/></dia:attribute></dia:object><dia:object type="Standard - Text" version="1" id="O16"><dia:attribute name="obj_pos"><dia:point val="15.6,7.775"/></dia:attribute><dia:attribute name="text"><dia:composite type="text"><dia:attribute name="string"><dia:string>#Comentar solicitud#</dia:string></dia:attribute><dia:attribute name="font"><dia:font family="sans" style="80" name="Arial"/></dia:attribute><dia:attribute name="height"><dia:real val="0.42"/></dia:attribute><dia:attribute name="pos"><dia:point val="15.6,7.775"/></dia:attribute><dia:attribute name="color"><dia:color val="#17211F"/></dia:attribute><dia:attribute name="alignment"><dia:enum val="1"/></dia:attribute></dia:composite></dia:attribute></dia:object><dia:object type="Standard - Ellipse" version="0" id="O17"><dia:attribute name="obj_pos"><dia:point val="18.5,7"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="18.5,7;22.7,8.55"/></dia:attribute><dia:attribute name="elem_corner"><dia:point val="18.5,7"/></dia:attribute><dia:attribute name="elem_width"><dia:real val="4.2"/></dia:attribute><dia:attribute name="elem_height"><dia:real val="1.55"/></dia:attribute><dia:attribute name="border_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="border_color"><dia:color val="#0B3B35"/></dia:attribute><dia:attribute name="inner_color"><dia:color val="#FFFFFF"/></dia:attribute><dia:attribute name="show_background"><dia:boolean val="true"/></dia:attribute></dia:object><dia:object type="Standard - Text" version="1" id="O18"><dia:attribute name="obj_pos"><dia:point val="20.6,7.775"/></dia:attribute><dia:attribute name="text"><dia:composite type="text"><dia:attribute name="string"><dia:string>#Gestionar solicitudes#</dia:string></dia:attribute><dia:attribute name="font"><dia:font family="sans" style="80" name="Arial"/></dia:attribute><dia:attribute name="height"><dia:real val="0.42"/></dia:attribute><dia:attribute name="pos"><dia:point val="20.6,7.775"/></dia:attribute><dia:attribute name="color"><dia:color val="#17211F"/></dia:attribute><dia:attribute name="alignment"><dia:enum val="1"/></dia:attribute></dia:composite></dia:attribute></dia:object><dia:object type="Standard - Ellipse" version="0" id="O19"><dia:attribute name="obj_pos"><dia:point val="8.5,11"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="8.5,11;12.7,12.55"/></dia:attribute><dia:attribute name="elem_corner"><dia:point val="8.5,11"/></dia:attribute><dia:attribute name="elem_width"><dia:real val="4.2"/></dia:attribute><dia:attribute name="elem_height"><dia:real val="1.55"/></dia:attribute><dia:attribute name="border_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="border_color"><dia:color val="#0B3B35"/></dia:attribute><dia:attribute name="inner_color"><dia:color val="#FFFFFF"/></dia:attribute><dia:attribute name="show_background"><dia:boolean val="true"/></dia:attribute></dia:object><dia:object type="Standard - Text" version="1" id="O20"><dia:attribute name="obj_pos"><dia:point val="10.6,11.775"/></dia:attribute><dia:attribute name="text"><dia:composite type="text"><dia:attribute name="string"><dia:string>#Asignar responsable#</dia:string></dia:attribute><dia:attribute name="font"><dia:font family="sans" style="80" name="Arial"/></dia:attribute><dia:attribute name="height"><dia:real val="0.42"/></dia:attribute><dia:attribute name="pos"><dia:point val="10.6,11.775"/></dia:attribute><dia:attribute name="color"><dia:color val="#17211F"/></dia:attribute><dia:attribute name="alignment"><dia:enum val="1"/></dia:attribute></dia:composite></dia:attribute></dia:object><dia:object type="Standard - Ellipse" version="0" id="O21"><dia:attribute name="obj_pos"><dia:point val="13.5,11"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="13.5,11;17.7,12.55"/></dia:attribute><dia:attribute name="elem_corner"><dia:point val="13.5,11"/></dia:attribute><dia:attribute name="elem_width"><dia:real val="4.2"/></dia:attribute><dia:attribute name="elem_height"><dia:real val="1.55"/></dia:attribute><dia:attribute name="border_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="border_color"><dia:color val="#0B3B35"/></dia:attribute><dia:attribute name="inner_color"><dia:color val="#FFFFFF"/></dia:attribute><dia:attribute name="show_background"><dia:boolean val="true"/></dia:attribute></dia:object><dia:object type="Standard - Text" version="1" id="O22"><dia:attribute name="obj_pos"><dia:point val="15.6,11.775"/></dia:attribute><dia:attribute name="text"><dia:composite type="text"><dia:attribute name="string"><dia:string>#Cambiar estado#</dia:string></dia:attribute><dia:attribute name="font"><dia:font family="sans" style="80" name="Arial"/></dia:attribute><dia:attribute name="height"><dia:real val="0.42"/></dia:attribute><dia:attribute name="pos"><dia:point val="15.6,11.775"/></dia:attribute><dia:attribute name="color"><dia:color val="#17211F"/></dia:attribute><dia:attribute name="alignment"><dia:enum val="1"/></dia:attribute></dia:composite></dia:attribute></dia:object><dia:object type="Standard - Ellipse" version="0" id="O23"><dia:attribute name="obj_pos"><dia:point val="18.5,11"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="18.5,11;22.7,12.55"/></dia:attribute><dia:attribute name="elem_corner"><dia:point val="18.5,11"/></dia:attribute><dia:attribute name="elem_width"><dia:real val="4.2"/></dia:attribute><dia:attribute name="elem_height"><dia:real val="1.55"/></dia:attribute><dia:attribute name="border_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="border_color"><dia:color val="#0B3B35"/></dia:attribute><dia:attribute name="inner_color"><dia:color val="#FFFFFF"/></dia:attribute><dia:attribute name="show_background"><dia:boolean val="true"/></dia:attribute></dia:object><dia:object type="Standard - Text" version="1" id="O24"><dia:attribute name="obj_pos"><dia:point val="20.6,11.775"/></dia:attribute><dia:attribute name="text"><dia:composite type="text"><dia:attribute name="string"><dia:string>#Gestionar recursos#</dia:string></dia:attribute><dia:attribute name="font"><dia:font family="sans" style="80" name="Arial"/></dia:attribute><dia:attribute name="height"><dia:real val="0.42"/></dia:attribute><dia:attribute name="pos"><dia:point val="20.6,11.775"/></dia:attribute><dia:attribute name="color"><dia:color val="#17211F"/></dia:attribute><dia:attribute name="alignment"><dia:enum val="1"/></dia:attribute></dia:composite></dia:attribute></dia:object><dia:object type="Standard - Ellipse" version="0" id="O25"><dia:attribute name="obj_pos"><dia:point val="13.5,15"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="13.5,15;17.7,16.55"/></dia:attribute><dia:attribute name="elem_corner"><dia:point val="13.5,15"/></dia:attribute><dia:attribute name="elem_width"><dia:real val="4.2"/></dia:attribute><dia:attribute name="elem_height"><dia:real val="1.55"/></dia:attribute><dia:attribute name="border_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="border_color"><dia:color val="#0B3B35"/></dia:attribute><dia:attribute name="inner_color"><dia:color val="#FFFFFF"/></dia:attribute><dia:attribute name="show_background"><dia:boolean val="true"/></dia:attribute></dia:object><dia:object type="Standard - Text" version="1" id="O26"><dia:attribute name="obj_pos"><dia:point val="15.6,15.775"/></dia:attribute><dia:attribute name="text"><dia:composite type="text"><dia:attribute name="string"><dia:string>#Generar reportes#</dia:string></dia:attribute><dia:attribute name="font"><dia:font family="sans" style="80" name="Arial"/></dia:attribute><dia:attribute name="height"><dia:real val="0.42"/></dia:attribute><dia:attribute name="pos"><dia:point val="15.6,15.775"/></dia:attribute><dia:attribute name="color"><dia:color val="#17211F"/></dia:attribute><dia:attribute name="alignment"><dia:enum val="1"/></dia:attribute></dia:composite></dia:attribute></dia:object><dia:object type="Standard - Line" version="0" id="O27"><dia:attribute name="obj_pos"><dia:point val="4.5,5.5"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="4.5,3.7800000000000002;6,5.5"/></dia:attribute><dia:attribute name="conn_endpoints"><dia:point val="4.5,5.5"/><dia:point val="6,3.7800000000000002"/></dia:attribute><dia:attribute name="line_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="line_color"><dia:color val="#0B3B35"/></dia:attribute></dia:object><dia:object type="Standard - Line" version="0" id="O28"><dia:attribute name="obj_pos"><dia:point val="4.5,5.5"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="4.5,3.7800000000000002;11,5.5"/></dia:attribute><dia:attribute name="conn_endpoints"><dia:point val="4.5,5.5"/><dia:point val="11,3.7800000000000002"/></dia:attribute><dia:attribute name="line_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="line_color"><dia:color val="#0B3B35"/></dia:attribute></dia:object><dia:object type="Standard - Line" version="0" id="O29"><dia:attribute name="obj_pos"><dia:point val="4.5,5.5"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="4.5,3.7800000000000002;16,5.5"/></dia:attribute><dia:attribute name="conn_endpoints"><dia:point val="4.5,5.5"/><dia:point val="16,3.7800000000000002"/></dia:attribute><dia:attribute name="line_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="line_color"><dia:color val="#0B3B35"/></dia:attribute></dia:object><dia:object type="Standard - Line" version="0" id="O30"><dia:attribute name="obj_pos"><dia:point val="4.5,5.5"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="4.5,5.5;8.5,7.78"/></dia:attribute><dia:attribute name="conn_endpoints"><dia:point val="4.5,5.5"/><dia:point val="8.5,7.78"/></dia:attribute><dia:attribute name="line_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="line_color"><dia:color val="#0B3B35"/></dia:attribute></dia:object><dia:object type="Standard - Line" version="0" id="O31"><dia:attribute name="obj_pos"><dia:point val="4.5,5.5"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="4.5,5.5;13.5,7.78"/></dia:attribute><dia:attribute name="conn_endpoints"><dia:point val="4.5,5.5"/><dia:point val="13.5,7.78"/></dia:attribute><dia:attribute name="line_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="line_color"><dia:color val="#0B3B35"/></dia:attribute></dia:object><dia:object type="Standard - Line" version="0" id="O32"><dia:attribute name="obj_pos"><dia:point val="25,5.5"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="10.2,3.7800000000000002;25,5.5"/></dia:attribute><dia:attribute name="conn_endpoints"><dia:point val="25,5.5"/><dia:point val="10.2,3.7800000000000002"/></dia:attribute><dia:attribute name="line_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="line_color"><dia:color val="#0B3B35"/></dia:attribute></dia:object><dia:object type="Standard - Line" version="0" id="O33"><dia:attribute name="obj_pos"><dia:point val="25,5.5"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="20.2,3.7800000000000002;25,5.5"/></dia:attribute><dia:attribute name="conn_endpoints"><dia:point val="25,5.5"/><dia:point val="20.2,3.7800000000000002"/></dia:attribute><dia:attribute name="line_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="line_color"><dia:color val="#0B3B35"/></dia:attribute></dia:object><dia:object type="Standard - Line" version="0" id="O34"><dia:attribute name="obj_pos"><dia:point val="25,5.5"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="17.7,5.5;25,7.78"/></dia:attribute><dia:attribute name="conn_endpoints"><dia:point val="25,5.5"/><dia:point val="17.7,7.78"/></dia:attribute><dia:attribute name="line_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="line_color"><dia:color val="#0B3B35"/></dia:attribute></dia:object><dia:object type="Standard - Line" version="0" id="O35"><dia:attribute name="obj_pos"><dia:point val="25,5.5"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="22.7,5.5;25,7.78"/></dia:attribute><dia:attribute name="conn_endpoints"><dia:point val="25,5.5"/><dia:point val="22.7,7.78"/></dia:attribute><dia:attribute name="line_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="line_color"><dia:color val="#0B3B35"/></dia:attribute></dia:object><dia:object type="Standard - Line" version="0" id="O36"><dia:attribute name="obj_pos"><dia:point val="25,5.5"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="12.7,5.5;25,11.78"/></dia:attribute><dia:attribute name="conn_endpoints"><dia:point val="25,5.5"/><dia:point val="12.7,11.78"/></dia:attribute><dia:attribute name="line_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="line_color"><dia:color val="#0B3B35"/></dia:attribute></dia:object><dia:object type="Standard - Line" version="0" id="O37"><dia:attribute name="obj_pos"><dia:point val="25,5.5"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="17.7,5.5;25,11.78"/></dia:attribute><dia:attribute name="conn_endpoints"><dia:point val="25,5.5"/><dia:point val="17.7,11.78"/></dia:attribute><dia:attribute name="line_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="line_color"><dia:color val="#0B3B35"/></dia:attribute></dia:object><dia:object type="Standard - Line" version="0" id="O38"><dia:attribute name="obj_pos"><dia:point val="25,5.5"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="22.7,5.5;25,11.78"/></dia:attribute><dia:attribute name="conn_endpoints"><dia:point val="25,5.5"/><dia:point val="22.7,11.78"/></dia:attribute><dia:attribute name="line_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="line_color"><dia:color val="#0B3B35"/></dia:attribute></dia:object><dia:object type="Standard - Line" version="0" id="O39"><dia:attribute name="obj_pos"><dia:point val="25,5.5"/></dia:attribute><dia:attribute name="obj_bb"><dia:rectangle val="17.7,5.5;25,15.78"/></dia:attribute><dia:attribute name="conn_endpoints"><dia:point val="25,5.5"/><dia:point val="17.7,15.78"/></dia:attribute><dia:attribute name="line_width"><dia:real val="0.07"/></dia:attribute><dia:attribute name="line_color"><dia:color val="#0B3B35"/></dia:attribute></dia:object></dia:layer></dia:diagram>
+<?xml version="1.0" encoding="UTF-8"?>
+<dia:diagram xmlns:dia="http://www.lysator.liu.se/~alla/dia/">
+  <dia:diagramdata>
+    <dia:attribute name="background">
+      <dia:color val="#ffffff"/>
+    </dia:attribute>
+    <dia:attribute name="pagebreak">
+      <dia:color val="#000099"/>
+    </dia:attribute>
+    <dia:attribute name="paper">
+      <dia:composite type="paper">
+        <dia:attribute name="name">
+          <dia:string>#A4#</dia:string>
+        </dia:attribute>
+        <dia:attribute name="tmargin">
+          <dia:real val="2.8222000598907471"/>
+        </dia:attribute>
+        <dia:attribute name="bmargin">
+          <dia:real val="2.8222000598907471"/>
+        </dia:attribute>
+        <dia:attribute name="lmargin">
+          <dia:real val="2.8222000598907471"/>
+        </dia:attribute>
+        <dia:attribute name="rmargin">
+          <dia:real val="2.8222000598907471"/>
+        </dia:attribute>
+        <dia:attribute name="is_portrait">
+          <dia:boolean val="false"/>
+        </dia:attribute>
+        <dia:attribute name="scaling">
+          <dia:real val="0.88691473007202148"/>
+        </dia:attribute>
+        <dia:attribute name="fitto">
+          <dia:boolean val="true"/>
+        </dia:attribute>
+        <dia:attribute name="fitwidth">
+          <dia:int val="1"/>
+        </dia:attribute>
+        <dia:attribute name="fitheight">
+          <dia:int val="1"/>
+        </dia:attribute>
+      </dia:composite>
+    </dia:attribute>
+    <dia:attribute name="grid">
+      <dia:composite type="grid">
+        <dia:attribute name="width_x">
+          <dia:real val="1"/>
+        </dia:attribute>
+        <dia:attribute name="width_y">
+          <dia:real val="1"/>
+        </dia:attribute>
+        <dia:attribute name="visible_x">
+          <dia:int val="1"/>
+        </dia:attribute>
+        <dia:attribute name="visible_y">
+          <dia:int val="1"/>
+        </dia:attribute>
+        <dia:composite type="color"/>
+      </dia:composite>
+    </dia:attribute>
+    <dia:attribute name="color">
+      <dia:color val="#d8e5e5"/>
+    </dia:attribute>
+    <dia:attribute name="guides">
+      <dia:composite type="guides">
+        <dia:attribute name="hguides"/>
+        <dia:attribute name="vguides"/>
+      </dia:composite>
+    </dia:attribute>
+  </dia:diagramdata>
+  <dia:layer name="Diseño" visible="true" active="true">
+    <dia:object type="Standard - Text" version="1" id="O0">
+      <dia:attribute name="obj_pos">
+        <dia:point val="1.2,1"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="1.2,1;13.215,1.79"/>
+      </dia:attribute>
+      <dia:attribute name="text">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#Campus Connect - Casos de uso web#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="sans" style="80" name="Helvetica-Bold"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.81999999999999995"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="1.2,1.655"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#0b3b35"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="0"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+      <dia:attribute name="valign">
+        <dia:enum val="0"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Text" version="1" id="O1">
+      <dia:attribute name="obj_pos">
+        <dia:point val="1.2,1.65"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="1.2,1.65;8.8875,2.0175"/>
+      </dia:attribute>
+      <dia:attribute name="text">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#Actores y funciones incluidas en el módulo administrativo#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="sans" style="0" name="Helvetica"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.38"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="1.2,1.955"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#66736f"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="0"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+      <dia:attribute name="valign">
+        <dia:enum val="0"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Ellipse" version="0" id="O2">
+      <dia:attribute name="obj_pos">
+        <dia:point val="6,3"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="5.965,2.965;10.235,4.585"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="6,3"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="4.2000000000000002"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="1.55"/>
+      </dia:attribute>
+      <dia:attribute name="border_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+      <dia:attribute name="border_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Text" version="1" id="O3">
+      <dia:attribute name="obj_pos">
+        <dia:point val="8.1,3.775"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="6.9675,3.775;9.2325,4.18"/>
+      </dia:attribute>
+      <dia:attribute name="text">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#Iniciar sesión#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="sans" style="80" name="Helvetica-Bold"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.41999999999999998"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="8.1,4.11"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#17211f"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="1"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+      <dia:attribute name="valign">
+        <dia:enum val="0"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Ellipse" version="0" id="O4">
+      <dia:attribute name="obj_pos">
+        <dia:point val="11,3"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="10.965,2.965;15.235,4.585"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="11,3"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="4.2000000000000002"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="1.55"/>
+      </dia:attribute>
+      <dia:attribute name="border_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+      <dia:attribute name="border_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Text" version="1" id="O5">
+      <dia:attribute name="obj_pos">
+        <dia:point val="13.1,3.775"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="11.5625,3.775;14.6375,4.18"/>
+      </dia:attribute>
+      <dia:attribute name="text">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#Registrar solicitud#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="sans" style="80" name="Helvetica-Bold"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.41999999999999998"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="13.1,4.11"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#17211f"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="1"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+      <dia:attribute name="valign">
+        <dia:enum val="0"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Ellipse" version="0" id="O6">
+      <dia:attribute name="obj_pos">
+        <dia:point val="16,3"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="15.965,2.965;20.235,4.585"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="16,3"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="4.2000000000000002"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="1.55"/>
+      </dia:attribute>
+      <dia:attribute name="border_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+      <dia:attribute name="border_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Text" version="1" id="O7">
+      <dia:attribute name="obj_pos">
+        <dia:point val="18.1,3.775"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="16.2025,3.775;19.9975,4.18"/>
+      </dia:attribute>
+      <dia:attribute name="text">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#Consultar seguimiento#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="sans" style="80" name="Helvetica-Bold"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.41999999999999998"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="18.1,4.11"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#17211f"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="1"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+      <dia:attribute name="valign">
+        <dia:enum val="0"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Ellipse" version="0" id="O8">
+      <dia:attribute name="obj_pos">
+        <dia:point val="8.5,7"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="8.465,6.965;12.735,8.585"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="8.5,7"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="4.2000000000000002"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="1.55"/>
+      </dia:attribute>
+      <dia:attribute name="border_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+      <dia:attribute name="border_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Text" version="1" id="O9">
+      <dia:attribute name="obj_pos">
+        <dia:point val="10.6,7.775"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="9.01375,7.775;12.1863,8.18"/>
+      </dia:attribute>
+      <dia:attribute name="text">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#Adjuntar evidencia#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="sans" style="80" name="Helvetica-Bold"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.41999999999999998"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="10.6,8.11"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#17211f"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="1"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+      <dia:attribute name="valign">
+        <dia:enum val="0"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Ellipse" version="0" id="O10">
+      <dia:attribute name="obj_pos">
+        <dia:point val="13.5,7"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="13.465,6.965;17.735,8.585"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="13.5,7"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="4.2000000000000002"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="1.55"/>
+      </dia:attribute>
+      <dia:attribute name="border_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+      <dia:attribute name="border_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Text" version="1" id="O11">
+      <dia:attribute name="obj_pos">
+        <dia:point val="15.6,7.775"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="14.015,7.775;17.185,8.18"/>
+      </dia:attribute>
+      <dia:attribute name="text">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#Comentar solicitud#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="sans" style="80" name="Helvetica-Bold"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.41999999999999998"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="15.6,8.11"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#17211f"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="1"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+      <dia:attribute name="valign">
+        <dia:enum val="0"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Ellipse" version="0" id="O12">
+      <dia:attribute name="obj_pos">
+        <dia:point val="18.5,7"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="18.465,6.965;22.735,8.585"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="18.5,7"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="4.2000000000000002"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="1.55"/>
+      </dia:attribute>
+      <dia:attribute name="border_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+      <dia:attribute name="border_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Text" version="1" id="O13">
+      <dia:attribute name="obj_pos">
+        <dia:point val="20.6,7.775"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="18.8388,7.775;22.3613,8.18"/>
+      </dia:attribute>
+      <dia:attribute name="text">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#Gestionar solicitudes#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="sans" style="80" name="Helvetica-Bold"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.41999999999999998"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="20.6,8.11"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#17211f"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="1"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+      <dia:attribute name="valign">
+        <dia:enum val="0"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Ellipse" version="0" id="O14">
+      <dia:attribute name="obj_pos">
+        <dia:point val="8.5,11"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="8.465,10.965;12.735,12.585"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="8.5,11"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="4.2000000000000002"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="1.55"/>
+      </dia:attribute>
+      <dia:attribute name="border_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+      <dia:attribute name="border_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Text" version="1" id="O15">
+      <dia:attribute name="obj_pos">
+        <dia:point val="10.6,11.775"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="8.8975,11.775;12.3025,12.18"/>
+      </dia:attribute>
+      <dia:attribute name="text">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#Asignar responsable#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="sans" style="80" name="Helvetica-Bold"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.41999999999999998"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="10.6,12.11"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#17211f"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="1"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+      <dia:attribute name="valign">
+        <dia:enum val="0"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Ellipse" version="0" id="O16">
+      <dia:attribute name="obj_pos">
+        <dia:point val="13.5,11"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="13.465,10.965;17.735,12.585"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="13.5,11"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="4.2000000000000002"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="1.55"/>
+      </dia:attribute>
+      <dia:attribute name="border_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+      <dia:attribute name="border_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Text" version="1" id="O17">
+      <dia:attribute name="obj_pos">
+        <dia:point val="15.6,11.775"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="14.2862,11.775;16.9138,12.18"/>
+      </dia:attribute>
+      <dia:attribute name="text">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#Cambiar estado#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="sans" style="80" name="Helvetica-Bold"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.41999999999999998"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="15.6,12.11"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#17211f"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="1"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+      <dia:attribute name="valign">
+        <dia:enum val="0"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Ellipse" version="0" id="O18">
+      <dia:attribute name="obj_pos">
+        <dia:point val="18.5,11"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="18.465,10.965;22.735,12.585"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="18.5,11"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="4.2000000000000002"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="1.55"/>
+      </dia:attribute>
+      <dia:attribute name="border_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+      <dia:attribute name="border_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Text" version="1" id="O19">
+      <dia:attribute name="obj_pos">
+        <dia:point val="20.6,11.775"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="19.0188,11.775;22.1813,12.18"/>
+      </dia:attribute>
+      <dia:attribute name="text">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#Gestionar recursos#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="sans" style="80" name="Helvetica-Bold"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.41999999999999998"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="20.6,12.11"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#17211f"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="1"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+      <dia:attribute name="valign">
+        <dia:enum val="0"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Ellipse" version="0" id="O20">
+      <dia:attribute name="obj_pos">
+        <dia:point val="13.5,15"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="13.465,14.965;17.735,16.585"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="13.5,15"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="4.2000000000000002"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="1.55"/>
+      </dia:attribute>
+      <dia:attribute name="border_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+      <dia:attribute name="border_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Text" version="1" id="O21">
+      <dia:attribute name="obj_pos">
+        <dia:point val="15.6,15.775"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="14.1638,15.775;17.0362,16.18"/>
+      </dia:attribute>
+      <dia:attribute name="text">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#Generar reportes#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="sans" style="80" name="Helvetica-Bold"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.41999999999999998"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="15.6,16.11"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#17211f"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="1"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+      <dia:attribute name="valign">
+        <dia:enum val="0"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Line" version="0" id="O22">
+      <dia:attribute name="obj_pos">
+        <dia:point val="4.5,5.5"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="4.45062,3.73062;6.04938,5.54938"/>
+      </dia:attribute>
+      <dia:attribute name="conn_endpoints">
+        <dia:point val="4.5,5.5"/>
+        <dia:point val="6,3.78"/>
+      </dia:attribute>
+      <dia:attribute name="numcp">
+        <dia:int val="1"/>
+      </dia:attribute>
+      <dia:attribute name="line_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Line" version="0" id="O23">
+      <dia:attribute name="obj_pos">
+        <dia:point val="4.5,5.5"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="4.45721,3.73721;11.0428,5.54279"/>
+      </dia:attribute>
+      <dia:attribute name="conn_endpoints">
+        <dia:point val="4.5,5.5"/>
+        <dia:point val="11,3.78"/>
+      </dia:attribute>
+      <dia:attribute name="numcp">
+        <dia:int val="1"/>
+      </dia:attribute>
+      <dia:attribute name="line_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Line" version="0" id="O24">
+      <dia:attribute name="obj_pos">
+        <dia:point val="4.5,5.5"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="4.46021,3.74021;16.0398,5.53979"/>
+      </dia:attribute>
+      <dia:attribute name="conn_endpoints">
+        <dia:point val="4.5,5.5"/>
+        <dia:point val="16,3.78"/>
+      </dia:attribute>
+      <dia:attribute name="numcp">
+        <dia:int val="1"/>
+      </dia:attribute>
+      <dia:attribute name="line_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Line" version="0" id="O25">
+      <dia:attribute name="obj_pos">
+        <dia:point val="4.5,5.5"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="4.45226,5.45226;8.54774,7.82774"/>
+      </dia:attribute>
+      <dia:attribute name="conn_endpoints">
+        <dia:point val="4.5,5.5"/>
+        <dia:point val="8.5,7.78"/>
+      </dia:attribute>
+      <dia:attribute name="numcp">
+        <dia:int val="1"/>
+      </dia:attribute>
+      <dia:attribute name="line_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Line" version="0" id="O26">
+      <dia:attribute name="obj_pos">
+        <dia:point val="4.5,5.5"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="4.45748,5.45748;13.5425,7.82252"/>
+      </dia:attribute>
+      <dia:attribute name="conn_endpoints">
+        <dia:point val="4.5,5.5"/>
+        <dia:point val="13.5,7.78"/>
+      </dia:attribute>
+      <dia:attribute name="numcp">
+        <dia:int val="1"/>
+      </dia:attribute>
+      <dia:attribute name="line_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Line" version="0" id="O27">
+      <dia:attribute name="obj_pos">
+        <dia:point val="25,5.5"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="10.1612,3.74119;25.0388,5.53881"/>
+      </dia:attribute>
+      <dia:attribute name="conn_endpoints">
+        <dia:point val="25,5.5"/>
+        <dia:point val="10.2,3.78"/>
+      </dia:attribute>
+      <dia:attribute name="numcp">
+        <dia:int val="1"/>
+      </dia:attribute>
+      <dia:attribute name="line_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Line" version="0" id="O28">
+      <dia:attribute name="obj_pos">
+        <dia:point val="25,5.5"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="20.1552,3.73524;25.0448,5.54476"/>
+      </dia:attribute>
+      <dia:attribute name="conn_endpoints">
+        <dia:point val="25,5.5"/>
+        <dia:point val="20.2,3.78"/>
+      </dia:attribute>
+      <dia:attribute name="numcp">
+        <dia:int val="1"/>
+      </dia:attribute>
+      <dia:attribute name="line_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Line" version="0" id="O29">
+      <dia:attribute name="obj_pos">
+        <dia:point val="25,5.5"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="17.6562,5.45616;25.0438,7.82384"/>
+      </dia:attribute>
+      <dia:attribute name="conn_endpoints">
+        <dia:point val="25,5.5"/>
+        <dia:point val="17.7,7.78"/>
+      </dia:attribute>
+      <dia:attribute name="numcp">
+        <dia:int val="1"/>
+      </dia:attribute>
+      <dia:attribute name="line_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Line" version="0" id="O30">
+      <dia:attribute name="obj_pos">
+        <dia:point val="25,5.5"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="22.6505,5.4505;25.0495,7.8295"/>
+      </dia:attribute>
+      <dia:attribute name="conn_endpoints">
+        <dia:point val="25,5.5"/>
+        <dia:point val="22.7,7.78"/>
+      </dia:attribute>
+      <dia:attribute name="numcp">
+        <dia:int val="1"/>
+      </dia:attribute>
+      <dia:attribute name="line_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Line" version="0" id="O31">
+      <dia:attribute name="obj_pos">
+        <dia:point val="25,5.5"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="12.6529,5.45291;25.0471,11.8271"/>
+      </dia:attribute>
+      <dia:attribute name="conn_endpoints">
+        <dia:point val="25,5.5"/>
+        <dia:point val="12.7,11.78"/>
+      </dia:attribute>
+      <dia:attribute name="numcp">
+        <dia:int val="1"/>
+      </dia:attribute>
+      <dia:attribute name="line_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Line" version="0" id="O32">
+      <dia:attribute name="obj_pos">
+        <dia:point val="25,5.5"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="17.6506,5.45064;25.0494,11.8294"/>
+      </dia:attribute>
+      <dia:attribute name="conn_endpoints">
+        <dia:point val="25,5.5"/>
+        <dia:point val="17.7,11.78"/>
+      </dia:attribute>
+      <dia:attribute name="numcp">
+        <dia:int val="1"/>
+      </dia:attribute>
+      <dia:attribute name="line_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Line" version="0" id="O33">
+      <dia:attribute name="obj_pos">
+        <dia:point val="25,5.5"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="22.6551,5.4551;25.0449,11.8249"/>
+      </dia:attribute>
+      <dia:attribute name="conn_endpoints">
+        <dia:point val="25,5.5"/>
+        <dia:point val="22.7,11.78"/>
+      </dia:attribute>
+      <dia:attribute name="numcp">
+        <dia:int val="1"/>
+      </dia:attribute>
+      <dia:attribute name="line_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="Standard - Line" version="0" id="O34">
+      <dia:attribute name="obj_pos">
+        <dia:point val="25,5.5"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="17.6512,5.4512;25.0488,15.8288"/>
+      </dia:attribute>
+      <dia:attribute name="conn_endpoints">
+        <dia:point val="25,5.5"/>
+        <dia:point val="17.7,15.78"/>
+      </dia:attribute>
+      <dia:attribute name="numcp">
+        <dia:int val="1"/>
+      </dia:attribute>
+      <dia:attribute name="line_color">
+        <dia:color val="#0b3b35"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.070000000000000007"/>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="UML - Actor" version="0" id="O35">
+      <dia:attribute name="obj_pos">
+        <dia:point val="3.1081,4.63105"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="1.60628,1.88105;4.5906,8.14218"/>
+      </dia:attribute>
+      <dia:attribute name="meta">
+        <dia:composite type="dict"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="1.8581,1.93105"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="2.5"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="5.3999999999999995"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.10000000000000001"/>
+      </dia:attribute>
+      <dia:attribute name="line_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="fill_colour">
+        <dia:color val="#ffffff"/>
+      </dia:attribute>
+      <dia:attribute name="text">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#Estudiante
+#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="sans" style="0" name="Helvetica"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.80000000000000004"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="3.1081,7.17105"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#000000"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="1"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+    </dia:object>
+    <dia:object type="UML - Actor" version="0" id="O36">
+      <dia:attribute name="obj_pos">
+        <dia:point val="26.3103,4.49955"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="24.2785,1.74955;28.3228,8.01067"/>
+      </dia:attribute>
+      <dia:attribute name="meta">
+        <dia:composite type="dict"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="25.0603,1.79955"/>
+      </dia:attribute>
+      <dia:attribute name="elem_width">
+        <dia:real val="2.5"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="5.3999999999999995"/>
+      </dia:attribute>
+      <dia:attribute name="line_width">
+        <dia:real val="0.10000000000000001"/>
+      </dia:attribute>
+      <dia:attribute name="line_colour">
+        <dia:color val="#000000"/>
+      </dia:attribute>
+      <dia:attribute name="fill_colour">
+        <dia:color val="#ffffff"/>
+      </dia:attribute>
+      <dia:attribute name="text">
+        <dia:composite type="text">
+          <dia:attribute name="string">
+            <dia:string>#Administrativo
+#</dia:string>
+          </dia:attribute>
+          <dia:attribute name="font">
+            <dia:font family="sans" style="0" name="Helvetica"/>
+          </dia:attribute>
+          <dia:attribute name="height">
+            <dia:real val="0.80000000000000004"/>
+          </dia:attribute>
+          <dia:attribute name="pos">
+            <dia:point val="26.3103,7.03955"/>
+          </dia:attribute>
+          <dia:attribute name="color">
+            <dia:color val="#000000"/>
+          </dia:attribute>
+          <dia:attribute name="alignment">
+            <dia:enum val="1"/>
+          </dia:attribute>
+        </dia:composite>
+      </dia:attribute>
+    </dia:object>
+  </dia:layer>
+</dia:diagram>
